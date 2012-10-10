@@ -1,0 +1,4 @@
+$ go run epochs.go
+Secs:   1348240948
+Millis: 1348240948517
+Nanos:  1348240948517870000
