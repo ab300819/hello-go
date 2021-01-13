@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25d3a484-35ad-4f70-abe8-5429fe273945" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14/libexec" />
+  <component name="ProjectId" id="1ZtlFC5JTWQlcUnOVJ8IF3HIn5A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build reading-files.go">
+    <configuration name="go build epoch.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gotour" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/epoch.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build number-parsing.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gotour" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/number-parsing.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build reading-files.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gotour" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/reading-files.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build sha1-hashes.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gotour" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/sha1-hashes.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build time-formatting-parsing.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gotour" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/time-formatting-parsing.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build reading-files.go" />
+        <item itemvalue="Go Build.go build sha1-hashes.go" />
+        <item itemvalue="Go Build.go build number-parsing.go" />
+        <item itemvalue="Go Build.go build time-formatting-parsing.go" />
+        <item itemvalue="Go Build.go build epoch.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1321" y="484" key="#GOROOT" timestamp="1585666182479">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1321" y="484" key="#GOROOT/2560.563.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1585666182479" />
+    <state width="997" height="250" key="GridCell.Tab.0.bottom" timestamp="1586442570651">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state width="997" height="250" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1586008933796" />
+    <state width="997" height="250" key="GridCell.Tab.0.bottom/2560.563.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1585922264597" />
+    <state width="997" height="250" key="GridCell.Tab.0.bottom/2560.563.1440.877/0.23.2560.1338@0.23.2560.1338" timestamp="1586442570651" />
+    <state width="997" height="250" key="GridCell.Tab.0.center" timestamp="1586442570650">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state width="997" height="250" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1586008933795" />
+    <state width="997" height="250" key="GridCell.Tab.0.center/2560.563.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1585922264596" />
+    <state width="997" height="250" key="GridCell.Tab.0.center/2560.563.1440.877/0.23.2560.1338@0.23.2560.1338" timestamp="1586442570650" />
+    <state width="997" height="250" key="GridCell.Tab.0.left" timestamp="1586442570647">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state width="997" height="250" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1586008933795" />
+    <state width="997" height="250" key="GridCell.Tab.0.left/2560.563.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1585922264595" />
+    <state width="997" height="250" key="GridCell.Tab.0.left/2560.563.1440.877/0.23.2560.1338@0.23.2560.1338" timestamp="1586442570647" />
+    <state width="997" height="250" key="GridCell.Tab.0.right" timestamp="1586442570651">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state width="997" height="250" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1586008933796" />
+    <state width="997" height="250" key="GridCell.Tab.0.right/2560.563.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1585922264597" />
+    <state width="997" height="250" key="GridCell.Tab.0.right/2560.563.1440.877/0.23.2560.1338@0.23.2560.1338" timestamp="1586442570651" />
+    <state width="997" height="250" key="GridCell.Tab.1.bottom" timestamp="1586442570653">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state width="997" height="250" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1586008933797" />
+    <state width="997" height="250" key="GridCell.Tab.1.bottom/2560.563.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1585922264598" />
+    <state width="997" height="250" key="GridCell.Tab.1.bottom/2560.563.1440.877/0.23.2560.1338@0.23.2560.1338" timestamp="1586442570653" />
+    <state width="997" height="250" key="GridCell.Tab.1.center" timestamp="1586442570652">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state width="997" height="250" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1586008933797" />
+    <state width="997" height="250" key="GridCell.Tab.1.center/2560.563.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1585922264598" />
+    <state width="997" height="250" key="GridCell.Tab.1.center/2560.563.1440.877/0.23.2560.1338@0.23.2560.1338" timestamp="1586442570652" />
+    <state width="997" height="250" key="GridCell.Tab.1.left" timestamp="1586442570651">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state width="997" height="250" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1586008933797" />
+    <state width="997" height="250" key="GridCell.Tab.1.left/2560.563.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1585922264597" />
+    <state width="997" height="250" key="GridCell.Tab.1.left/2560.563.1440.877/0.23.2560.1338@0.23.2560.1338" timestamp="1586442570651" />
+    <state width="997" height="250" key="GridCell.Tab.1.right" timestamp="1586442570652">
+      <screen x="0" y="23" width="2560" height="1338" />
+    </state>
+    <state width="997" height="250" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1586008933797" />
+    <state width="997" height="250" key="GridCell.Tab.1.right/2560.563.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1585922264598" />
+    <state width="997" height="250" key="GridCell.Tab.1.right/2560.563.1440.877/0.23.2560.1338@0.23.2560.1338" timestamp="1586442570652" />
+    <state x="1357" y="638" key="SettingsEditor" timestamp="1585667407014">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1357" y="638" key="SettingsEditor/2560.563.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1585667407014" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1585667370304">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/2560.563.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1585667370304" />
+    <state x="1513" y="684" key="search.everywhere.popup" timestamp="1585667061695">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1513" y="684" key="search.everywhere.popup/2560.563.1440.877/0.23.2560.1337@0.23.2560.1337" timestamp="1585667061695" />
+  </component>
+</project>
